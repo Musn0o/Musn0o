@@ -4,7 +4,7 @@
 
 Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform über die Desktop-App bis zur mobilen App. Mein Fokus liegt auf nachvollziehbaren Datenmodellen, sauberer Struktur und Produkten, die im Alltag funktionieren.
 
-**Aktuell:** Bewerbung um eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum 01.08.2027 (früher möglich). Deutsch: Goethe-Zertifikat B1, B2-Prüfung in Deutschland geplant. Umzugsbereit nach Deutschland; Ausbildungsvisum erforderlich.
+**Aktuell:** Bewerbung um eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum 01.08.2027 (früher möglich). Deutsch: Goethe-Zertifikat B1, B2-Prüfung in Deutschland geplant. Ich bin umzugsbereit nach Deutschland; ein Ausbildungsvisum ist erforderlich.
 
 ---
 
