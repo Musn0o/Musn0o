@@ -4,7 +4,7 @@
 
 Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform über die Desktop-App bis zur mobilen App. Mein Fokus liegt auf nachvollziehbaren Datenmodellen, sauberer Struktur und Produkten, die im Alltag funktionieren.
 
-**Aktuell:** Bewerbung um eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum 01.08.2027 (früher möglich). Deutsch: Goethe-Zertifikat B1, B2-Prüfung in Deutschland geplant. Ich bin umzugsbereit nach Deutschland; ein Ausbildungsvisum ist erforderlich.
+**Aktuell:** Bewerbung um eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung (m/w/d)** zum 01.08.2027 (früher möglich). Deutsch: Goethe-Zertifikat B1; telc B2-Prüfung abgelegt, Ergebnis ausstehend. Ich bin umzugsbereit nach Deutschland; ein Ausbildungsvisum ist erforderlich.
 
 ---
 
@@ -27,12 +27,12 @@ Ich entwickle plattformübergreifende Anwendungen – von der Web-Plattform übe
 
 ## Ausgewählte Projekte
 
-### Coursesify — E-Learning- & Streaming-Plattform
-[![Coursesify](https://raw.githubusercontent.com/Musn0o/software-portfolio/main/assets/coursesify-home.png)](https://coursesify.vercel.app/en)
+### Coursesify — Geschützte E-Learning-Plattform
+[![Coursesify Website](https://raw.githubusercontent.com/Musn0o/software-portfolio/main/assets/coursesify-home.png)](https://coursesify.vercel.app/en)
 
-Live-MVP mit Kursverwaltung, Nutzerkonten und Video-Streaming. Dazu eine Electron-Desktop-App mit Schutzmechanismen gegen unbefugtes Kopieren.
+Next.js-Website mit API, Flutter-Lern-App für fünf Plattformen und internes Electron-Admin-Tool mit FFmpeg/AES-128-HLS-Pipeline. Die Website dient als Marketing-, Legal-, Kontakt- und Download-Seite; die Wiedergabe läuft nur in der App.
 
-`Next.js` · `Node.js` · `Electron` · `PostgreSQL` · `Supabase`
+`Next.js` · `Flutter` · `PostgreSQL/Supabase` · `Electron` · `Backblaze B2`
 
 **[Live ansehen](https://coursesify.vercel.app/en)** · **[Case Study](https://github.com/Musn0o/software-portfolio/blob/main/projects/coursesify.md)**
 
@@ -41,7 +41,7 @@ Live-MVP mit Kursverwaltung, Nutzerkonten und Video-Streaming. Dazu eine Electro
 ### Achtung — Offline-First Sprachlern-App
 [![Achtung im Google Play Store](https://raw.githubusercontent.com/Musn0o/software-portfolio/main/assets/achtung-store.png)](https://play.google.com/store/apps/details?id=com.musno.achtung)
 
-Mobile Lern-App für Deutsch (A1/A2) mit Offline-Übersetzung, OCR-Scanner, Aussprachetraining und Vokabeljournal. Veröffentlicht im Google Play Store.
+Mobile Lern-App für Deutsch (A1–B2) mit Offline-Übersetzung, OCR-Scanner, Aussprachetraining und Vokabeljournal. Veröffentlicht im Google Play Store.
 
 `Flutter` · `Dart` · `SQLite/Drift` · `Google ML Kit` · `TTS/STT` · `OCR`
 
